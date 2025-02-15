@@ -30,7 +30,7 @@ const UserButton = async () => {
                         </Button>
                     </div>
                 </DropdownMenuTrigger>
-                <DropdownMenuContent className="w-56" align="end" forceMount>z  
+                <DropdownMenuContent className="w-56" align="end" forceMount>
                     <DropdownMenuLabel className="font-normal">
                         <div className="flex flex-col space-y-1">
                             <div className="text-sm font-medium leading-none">
